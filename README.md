@@ -1,4 +1,4 @@
-# Robot Framework Keyword Police
+# Robot Framework Cleaner
 
 ## Overview
 
